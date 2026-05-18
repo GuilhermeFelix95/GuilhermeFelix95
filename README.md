@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Guilherme
 
-<!--
-**GuilhermeFelix95/GuilhermeFelix95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com desenvolvimento de APIs em Python.  
+Gosto de resolver problemas de forma simples, sem complicar o código.
 
-Here are some ideas to get you started:
+Hoje meu foco é:
+- construir APIs organizadas e fáceis de manter  
+- escrever código limpo e direto  
+- automatizar processos quando realmente faz sentido  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Stack
+Python • APIs • SQL • Git  
+
+
+## Projetos
+
+Gerenciamento de tarefas (API)  
+https://github.com/GuilhermeFelix95/api-financas
+
+
+LinkedIn: https://www.linkedin.com/in/guilherme-felix-14370725a/
