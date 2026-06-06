@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Guilherme Felix Banner"/>
-</p>
-
-<p align="center">
   <a href="https://guilhermefelix95.github.io/GuilhermeFelix95/" target="_blank">
     <img src="https://img.shields.io/badge/VISITAR-PORTFÓLIO%20WEBSITE-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=0b0f19" alt="Visitar Portfólio Website"/>
   </a>
@@ -17,7 +13,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-101010?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:guilhermefelix.dev@gmail.com" target="_blank">
+  <a href="mailto:guilhermefelixferreira95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-101010?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -36,13 +32,13 @@
 
 <table>
   <tr>
-    <td width="35%" valign="top">
-      <img src="./gui.jpeg" width="100%" alt="Guilherme Felix Avatar"/>
+    <td width="30%" valign="top">
+      <img src="./gui.jpeg" width="100%" alt="Guilherme Felix Profile" style="border-radius: 50%; border: 2px solid #38bdf8;"/>
     </td>
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
       <p>Olá, sou o <b>Guilherme Felix</b>.</p>
-      <p>Trabalho com desenvolvimento backend focado em Python e na criação de APIs eficientes e fáceis de manter. Gosto de resolver problemas de forma simples e direta, sem complicar o código.</p>
-      <p>Tenho experiência na estruturação de APIs, modelagem de dados utilizando SQL e controle de versão eficiente com Git.</p>
+      <p>Trabalho com desenvolvimento backend focado em Python e na criação de APIs eficientes e fáceis de manter. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na faculdade <b>FAM</b>.</p>
+      <p>Tenho experiência na estruturação de APIs, modelagem de dados utilizando SQL, controle de versão eficiente com Git, e estou me especializando na integração de lógicas backend com Modelos de Linguagem (LLMs) e soluções de Inteligência Artificial (IA).</p>
       <p>Acredito que escrever código limpo e organizado é fundamental para a evolução de qualquer software.</p>
     </td>
   </tr>
@@ -60,21 +56,23 @@
   <img src="https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
   &nbsp;
   <img src="https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLMs%20%26%20IA-101010?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs & IA"/>
 </p>
 
 <table>
   <tr>
     <td width="33.3%" valign="top">
-      <b>Python</b><br>
-      Utilizado na escrita de scripts limpos, automação de rotinas e lógica de programação backend.
+      <b>Python & APIs</b><br>
+      Utilizado na escrita de scripts limpos, automação de rotinas, lógica de programação backend e estruturação de rotas de serviços.
     </td>
     <td width="33.3%" valign="top">
-      <b>APIs</b><br>
-      Design e integração de serviços e rotas backend bem estruturados e de fácil integração.
+      <b>Banco de Dados & Git</b><br>
+      Modelagem relacional de dados, consultas otimizadas no banco de dados e controle de versão de código com Git.
     </td>
     <td width="33.3%" valign="top">
-      <b>SQL & Git</b><br>
-      Modelagem relacional de dados, consultas otimizadas no banco de dados e controle de versão de código.
+      <b>LLMs & IA</b><br>
+      Integração e orquestração de Modelos de Linguagem (LLMs) e ferramentas de IA aplicadas a automações backend inteligentes.
     </td>
   </tr>
 </table>
