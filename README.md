@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td width="35%" valign="top">
-      <img src="./avatar.png" width="100%" alt="Guilherme Felix Avatar"/>
+      <img src="./gui.jpeg" width="100%" alt="Guilherme Felix Avatar"/>
     </td>
     <td width="65%" valign="top">
       <p>Olá, sou o <b>Guilherme Felix</b>.</p>
