@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://guilhermefelix95.github.io/GuilhermeFelix95/" target="_blank">
+    <img src="https://img.shields.io/badge/VISITAR-PORTFÓLIO%20WEBSITE-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=0b0f19" alt="Visitar Portfólio Website"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/GuilhermeFelix95" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -13,10 +19,6 @@
   &nbsp;
   <a href="mailto:guilhermefelix.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-101010?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-101010?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
@@ -35,13 +37,13 @@
 <table>
   <tr>
     <td width="35%" valign="top">
-      <img src="./avatar.png" width="100%" alt="Guilherme Felix Avatar" style="border-radius: 4px;"/>
+      <img src="./avatar.png" width="100%" alt="Guilherme Felix Avatar"/>
     </td>
     <td width="65%" valign="top">
       <p>Olá, sou o <b>Guilherme Felix</b>.</p>
-      <p>Trabalho com desenvolvimento backend focado em Python e na criação de APIs eficientes, escaláveis e fáceis de manter. Gosto de resolver problemas de forma simples e direta, sem complicar o código.</p>
-      <p>Tenho experiência na estruturação de APIs RESTful usando frameworks modernos, modelagem e otimização de bancos de dados relacionais (SQL), além de automatizar rotinas e processos quando realmente faz sentido para o fluxo de desenvolvimento ou de negócios.</p>
-      <p>Acredito que escrever código limpo e bem estruturado é fundamental para a evolução saudável de qualquer software.</p>
+      <p>Trabalho com desenvolvimento backend focado em Python e na criação de APIs eficientes e fáceis de manter. Gosto de resolver problemas de forma simples e direta, sem complicar o código.</p>
+      <p>Tenho experiência na estruturação de APIs, modelagem de dados utilizando SQL e controle de versão eficiente com Git.</p>
+      <p>Acredito que escrever código limpo e organizado é fundamental para a evolução de qualquer software.</p>
     </td>
   </tr>
 </table>
@@ -53,36 +55,26 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-101010?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/FASTAPI-101010?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FLASK-101010?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DJANGO-101010?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/APIs-101010?style=for-the-badge&logo=postman&logoColor=white" alt="APIs"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/POSTGRESQL-101010?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DOCKER-101010?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-101010?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 <table>
   <tr>
     <td width="33.3%" valign="top">
-      <b>Backend & APIs</b><br>
-      Desenvolvimento de APIs RESTful robustas utilizando FastAPI, Flask e Django, aplicando boas práticas de Clean Code, arquitetura limpa e documentação automática com Swagger/OpenAPI.
+      <b>Python</b><br>
+      Utilizado na escrita de scripts limpos, automação de rotinas e lógica de programação backend.
     </td>
     <td width="33.3%" valign="top">
-      <b>Banco de Dados & SQL</b><br>
-      Modelagem relacional de dados, estruturação e otimização de consultas SQL. Experiência prática com bancos como PostgreSQL e SQLite integrados via ORMs (SQLAlchemy, SQLModel).
+      <b>APIs</b><br>
+      Design e integração de serviços e rotas backend bem estruturados e de fácil integração.
     </td>
     <td width="33.3%" valign="top">
-      <b>DevOps & Automações</b><br>
-      Conteinerização com Docker para padronização de ambientes de desenvolvimento, versionamento inteligente usando Git/GitHub e automação de pipelines com GitHub Actions.
+      <b>SQL & Git</b><br>
+      Modelagem relacional de dados, consultas otimizadas no banco de dados e controle de versão de código.
     </td>
   </tr>
 </table>
