@@ -46,6 +46,13 @@
 
 ---
 
+## Projetos em Destaque
+
+- 🌐 **[MikanHQ](https://www.mikanhq.com.br/)**: Plataforma completa em produção para publicação e leitura de quadrinhos online.
+- 💳 **[FinanceApp API](https://github.com/GuilhermeFelix95/api-financas)**: API desenvolvida para controle de finanças pessoais e gerenciamento de tarefas.
+
+---
+
 ## Technical Arsenal
 
 <p align="center">
