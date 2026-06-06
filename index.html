@@ -46,6 +46,12 @@
             </svg>
             E-mail
           </a>
+          <a href="#" id="open-cv-btn" class="social-btn">
+            <svg viewBox="0 0 24 24">
+              <path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/>
+            </svg>
+            Currículo
+          </a>
         </div>
       </div>
     </div>
@@ -86,6 +92,100 @@
       </div>
     </div>
   </main>
+
+  <div id="cv-modal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Visualização do Currículo</h2>
+        <div class="modal-header-actions">
+          <button id="download-pdf-btn" class="btn-download">Baixar PDF</button>
+          <span class="close-modal-btn">&times;</span>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="cv-document">
+          <div class="cv-header">
+            <h1>GUILHERME FELIX FERREIRA</h1>
+            <p class="cv-title">Analista de Processos | Automação Python | Desenvolvimento Backend</p>
+            <p class="cv-meta">Jaboatão dos Guararapes - PE | (81) 98226-7500 | guilhermefelixferreira95@gmail.com</p>
+            <p class="cv-meta">GitHub: github.com/GuilhermeFelix95 | LinkedIn: linkedin.com/in/guilherme-felix-14370725a</p>
+          </div>
+          
+          <div class="cv-section">
+            <h2>RESUMO PROFISSIONAL</h2>
+            <p>Profissional com experiência em automação de processos operacionais, análise de dados e otimização de rotinas corporativas. Atua no desenvolvimento de soluções em Python para redução de atividades manuais, processamento de informações e aumento de produtividade. Experiência com automação de planilhas, SAP e desenvolvimento de APIs REST utilizando FastAPI. Atualmente cursando Análise e Desenvolvimento de Sistemas.</p>
+          </div>
+
+          <div class="cv-section">
+            <h2>COMPETÊNCIAS TÉCNICAS</h2>
+            <p>Python • FastAPI • APIs REST • CRUD • JSON • SQL • Git • GitHub • Automação de Processos • Automação de Planilhas • SAP</p>
+          </div>
+
+          <div class="cv-section">
+            <h2>PRINCIPAIS RESULTADOS</h2>
+            <ul>
+              <li>Redução aproximada de 90% no tempo de execução de processos operacionais através de automações em Python.</li>
+              <li>Automação de rotinas corporativas envolvendo processamento de planilhas e sistemas internos.</li>
+              <li>Eliminação de tarefas repetitivas e aumento de produtividade operacional.</li>
+            </ul>
+          </div>
+
+          <div class="cv-section">
+            <h2>EXPERIÊNCIA PROFISSIONAL</h2>
+            <div class="cv-item">
+              <div class="cv-item-title">
+                <strong>Neoenergia</strong> | Assistente de Leitura
+                <span class="cv-date">Mai/2026 – Atual</span>
+              </div>
+              <ul>
+                <li>Desenvolvimento de automações em Python para processamento de planilhas operacionais.</li>
+                <li>Automação de rotinas em ambiente SAP.</li>
+                <li>Criação de scripts para execução de tarefas repetitivas.</li>
+              </ul>
+            </div>
+            <div class="cv-item">
+              <div class="cv-item-title">
+                <strong>Martin Brower</strong> | Auxiliar Administrativo / Analista de Processos
+                <span class="cv-date">Jul/2022 – Atual</span>
+              </div>
+              <ul>
+                <li>Análise de dados operacionais.</li>
+                <li>Desenvolvimento de automações para conciliação de estoque.</li>
+                <li>Elaboração de indicadores e otimização de processos.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="cv-section">
+            <h2>PROJETOS</h2>
+            <div class="cv-item">
+              <div class="cv-item-title">
+                <strong>FinanceApp API</strong>
+              </div>
+              <ul>
+                <li>API REST desenvolvida com FastAPI.</li>
+                <li>Implementação de operações CRUD.</li>
+                <li>Estruturação de endpoints para gerenciamento financeiro.</li>
+                <li>Manipulação de dados em JSON.</li>
+                <li>Versionamento com Git e GitHub.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="cv-section">
+            <h2>FORMAÇÃO ACADÊMICA</h2>
+            <div class="cv-item">
+              <div class="cv-item-title">
+                <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong>
+                <span class="cv-date">Início: 02/2025 | Previsão: 07/2027</span>
+              </div>
+              <p>Faculdade FAM</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <footer>
     <p>&copy; 2026 Guilherme Felix. Todos os direitos reservados.</p>
